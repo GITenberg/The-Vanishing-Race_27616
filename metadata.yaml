@@ -1,0 +1,31 @@
+_repo: The-Vanishing-Race_27616
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dixon, Joseph K. (Joseph Kossuth)
+    alias: Dixon, Joseph Kossuth
+    birthdate: 1856
+    deathdate: 1926
+    gutenberg_agent_id: '32798'
+    url: http://www.gutenberg.org/2009/agents/32798
+description: ''
+gutenberg_issued: '2008-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27616'
+  lccn: '13024815'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Indians of North America'
+- !lcsh 'Indian councils -- United States'
+- !lcsh 'Indians of North America -- Biography'
+- !lcsh 'Little Bighorn, Battle of the, Mont., 1876'
+title: 'The Vanishing Race: The Last Great Indian Council'
+url: http://www.gutenberg.org/ebooks/27616
